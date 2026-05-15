@@ -1,0 +1,12 @@
+[submodule "pkmscan-shared"]
+	path = pkmscan-shared
+	url = https://github.com/cylb0/pkmscan-shared.git
+[submodule "pkmscan-api-gateway"]
+	path = pkmscan-api-gateway
+	url = https://github.com/cylb0/pkmscan-api-gateway.git
+[submodule "pkmscan-processor"]
+	path = pkmscan-processor
+	url = https://github.com/cylb0/pkmscan-processor.git
+[submodule "pkmscan-ml-trainer"]
+	path = pkmscan-ml-trainer
+	url = https://github.com/cylb0/pkmscan-ml-trainer.git
